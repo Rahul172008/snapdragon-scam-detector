@@ -1,0 +1,5 @@
+optimum[onnxruntime]
+transformers
+onnxruntime
+gradio
+numpy
